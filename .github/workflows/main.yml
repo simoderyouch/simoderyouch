@@ -46,6 +46,7 @@ jobs:
         with:
           target_branch: snake
           build_dir: dist
+          lfs: true
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
