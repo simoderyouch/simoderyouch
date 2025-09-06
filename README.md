@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Ed+Deryouch!;" />
 </h1>
 
-<h3 align="center">A passionate Ml Engineer | Software Engineer | Engineer Student in Software Engineering and Distributed Systems at <a href="https://www.enset-media.ac.ma">ENSET-M</a>.</h3>
+<h3 align="center">A passionate Ml Engineer | Software Engineer | Building scalable AI, NLP & data-driven solutions</h3>
 
 
 <br/>
 
 <div align="center">
-
-I’m an AI & ML Engineer | Software Engineer with hands-on experience designing and deploying end-to-end intelligent systems. My work spans NLP, Computer Vision, and LLMs, combined with solid expertise in full-stack development using React.js, FastAPI, and Django.
+Engineer Student in Software Engineering and Distributed Systems at <a href="https://www.enset-media.ac.ma">ENSET-M</a>.
+🔭 I’m an AI & ML Engineer | Software Engineer with hands-on experience designing and deploying end-to-end intelligent systems. My work spans NLP, Computer Vision, and LLMs, combined with solid expertise in full-stack development using React.js, FastAPI, and Django.
 
 🌱 Currently, I’m expanding my skills in MLOps, Docker, and cloud platforms (AWS, GCP, Azure), while building scalable big data pipelines and real-time AI applications with Kafka and Spark.
 
