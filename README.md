@@ -13,7 +13,7 @@ $ whoami
 Mohamed — a Software Engineer who likes AI.
 
 $ current_mode
-Learning Java & Spring Boot — currently negotiating peace with NullPointerException.
+Java & Spring Boot. Me vs. NullPointerException.
 ```
 
 ## About
