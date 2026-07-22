@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/simoderyouch/simoderyouch/main/.github/assets/cloud-terminal.svg" alt="Mohamed ED Deryouch — Software Engineer and AI Engineer" />
+  <img width="100%" src="https://raw.githubusercontent.com/simoderyouch/simoderyouch/main/.github/assets/cloud-terminal.svg" alt="Mohamed ED Deryouch — Software Engineer" />
 </p>
 
 <p align="center">
@@ -10,23 +10,23 @@
 
 ```console
 $ whoami
-Mohamed — Software Engineer & AI Engineer.
+Mohamed — a Software Engineer who likes AI.
 
-$ mission
-Turn ideas into useful, intelligent software — then ship it.
+$ education
+Software Engineering & Distributed Systems @ ENSET Media.
 ```
 
 ## About
 
-I build AI-powered applications and software products from the first idea through deployment. I care about clean engineering, practical intelligence, and systems that work reliably outside the development environment.
+I’m a Software Engineering and Distributed Systems student at **ENSET Media**. I enjoy turning ideas into useful products: designing the experience, writing the software, and deploying it where people can use it.
 
-Cloud, DevOps, and automation are interests that make the work even better: they help turn a finished feature into something repeatable, observable, and ready to use.
+AI is an area I’m curious about and actively exploring alongside my engineering work. Cloud, DevOps, and automation are interests that help me make what I build more reliable and easier to ship.
 
-## What I work with
+## What I work on
 
 | `01` | **Software engineering** — thoughtful applications, APIs, and full-stack products. |
 | :-- | :-- |
-| `02` | **AI engineering** — useful systems built with LLMs, NLP, computer vision, and data. |
+| `02` | **AI exploration** — practical work with LLMs, NLP, computer vision, and data. |
 | `03` | **Deployment** — taking products from local development to real environments. |
 
 ## Toolbox, not a checklist
