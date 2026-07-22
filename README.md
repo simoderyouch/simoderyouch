@@ -1,39 +1,60 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:155E75,100:38BDF8&height=250&section=header&text=Mohamed%20ED%20Deryouch&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Software%20Engineering&descAlignY=58&descSize=17" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=23&duration=3800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+useful+AI+systems.;Turning+data+into+decisions.;Shipping+reliable+software." alt="Animated introduction" />
+  <img width="100%" src="https://raw.githubusercontent.com/simoderyouch/simoderyouch/main/.github/assets/cloud-terminal.svg" alt="Mohamed ED Deryouch — cloud, DevOps, and systems" />
 </p>
 
 <p align="center">
-  <a href="https://www.mohamededderyouch.me"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
-  <a href="https://github.com/simoderyouch"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Morocco-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Based in Morocco" />
+  <a href="https://www.mohamededderyouch.me"><img src="https://img.shields.io/badge/Portfolio-0b1f33?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
+  <a href="https://github.com/simoderyouch"><img src="https://img.shields.io/badge/GitHub-simoderyouch-0b1f33?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Morocco-0b1f33?style=flat-square&logo=googlemaps&logoColor=38bdf8" alt="Morocco" />
 </p>
 
-## About
+```console
+$ whoami
+Mohamed — a developer who enjoys where code meets infrastructure.
 
-I’m a software-engineering student and AI/ML engineer focused on turning ambitious ideas into dependable, data-driven products. My work spans the full path from applied research and model development to production-ready APIs and interfaces.
+$ focus --now
+Cloud platforms · DevOps practices · automation · reliable systems
+```
 
-- Building with **LLMs, NLP, computer vision, and machine learning**
-- Designing **end-to-end AI systems** and real-time data pipelines
-- Shipping with **Python, TypeScript, React, FastAPI, Django, Kafka, and Docker**
-- Exploring **MLOps, cloud platforms, and distributed systems**
+## The short version
 
-## Selected work
+I build, experiment, and learn in public. I’m especially drawn to the craft behind dependable software: repeatable deployments, clean automation, useful developer tooling, and cloud infrastructure that stays understandable as it grows.
 
-| Project | Focus | Stack |
-| :-- | :-- | :-- |
-| [RAGio](https://github.com/simoderyouch/RAGio) | AI-powered document analysis | Python |
-| [Mizan](https://github.com/simoderyouch/Mizan) | TypeScript application development | TypeScript |
-| [PipePilot](https://github.com/simoderyouch/PipePilot) | Developer tooling and automation | Shell |
+When I’m not building an application, I’m usually exploring a better way to deploy, monitor, connect, or automate it.
 
-## Toolkit
+## Current signal
+
+| `01` | **Cloud & infrastructure** — learning how systems are designed to scale with intent. |
+| :-- | :-- |
+| `02` | **DevOps & automation** — making development and delivery more repeatable. |
+| `03` | **AI-powered applications** — exploring practical products, not just demos. |
+
+## Toolbox, not a checklist
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,django,pytorch,tensorflow,postgres,docker,kafka,aws,git&perline=14" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,docker,kubernetes,terraform,aws,gcp,python,typescript,fastapi,postgres&perline=13" alt="Tools: Linux, Bash, GitHub Actions, Docker, Kubernetes, Terraform, AWS, Google Cloud, Python, TypeScript, FastAPI, and PostgreSQL" />
 </p>
 
-## Contribution trail
+## Things I’m building
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/simoderyouch/RAGio"><strong>RAGio ↗</strong></a><br />
+      AI-powered document analysis.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/simoderyouch/Mizan"><strong>Mizan ↗</strong></a><br />
+      A TypeScript project in progress.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/simoderyouch/PipePilot"><strong>PipePilot ↗</strong></a><br />
+      Developer tooling and automation.
+    </td>
+  </tr>
+</table>
+
+## Contribution telemetry
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simoderyouch/simoderyouch/output/github-contribution-grid-snake-dark.svg" />
@@ -41,6 +62,4 @@ I’m a software-engineering student and AI/ML engineer focused on turning ambit
   <img width="100%" alt="Animated contribution graph" src="https://raw.githubusercontent.com/simoderyouch/simoderyouch/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="center">
-  <i>Open to thoughtful collaborations around AI, data, and developer tools.</i>
-</p>
+<p align="center"><sub>Thanks for stopping by — the next deployment is always one commit away.</sub></p>
