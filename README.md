@@ -13,7 +13,7 @@ $ whoami
 Mohamed — a Software Engineer who likes AI.
 
 $ current_mode
-Building useful software, exploring AI, and shipping ideas into real products.
+Learning Java and Spring Boot while building useful software.
 ```
 
 ## About
