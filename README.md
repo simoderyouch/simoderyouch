@@ -12,13 +12,13 @@
 $ whoami
 Mohamed — a Software Engineer who likes AI.
 
-$ education
-Engineer Student in Software Engineering & Distributed Systems at [ENSET-M](https://www.enset-media.ac.ma).
+$ current_mode
+Building useful software, exploring AI, and shipping ideas into real products.
 ```
 
 ## About
 
-I’m a Software Engineering and Distributed Systems student at **ENSET Media**. I enjoy turning ideas into useful products: designing the experience, writing the software, and deploying it where people can use it.
+I enjoy turning ideas into useful products: designing the experience, writing the software, and deploying it where people can use it.
 
 AI is an area I’m curious about and actively exploring alongside my engineering work. Cloud, DevOps, and automation are interests that help me make what I build more reliable and easier to ship.
 
