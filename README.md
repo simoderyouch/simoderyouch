@@ -13,7 +13,7 @@ $ whoami
 Mohamed — a Software Engineer who likes AI.
 
 $ education
-Software Engineering & Distributed Systems @ ENSET Media.
+Engineer Student in Software Engineering & Distributed Systems at [ENSET-M](https://www.enset-media.ac.ma).
 ```
 
 ## About
@@ -26,7 +26,7 @@ AI is an area I’m curious about and actively exploring alongside my engineerin
 
 | `01` | **Software engineering** — thoughtful applications, APIs, and full-stack products. |
 | :-- | :-- |
-| `02` | **AI exploration** — practical work with LLMs, NLP, computer vision, and data. |
+| `02` | **AI Engineer** — practical work with LLMs, NLP, computer vision, and data. |
 | `03` | **Deployment** — taking products from local development to real environments. |
 
 ## Toolbox, not a checklist
@@ -44,12 +44,12 @@ AI is an area I’m curious about and actively exploring alongside my engineerin
       AI-powered document analysis.
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/simoderyouch/Mizan"><strong>Mizan ↗</strong></a><br />
-      A TypeScript project in progress.
+      <a href="https://github.com/simoderyouch/NullDraft"><strong>NullDraft ↗</strong></a><br />
+      AI-powered screenshot documentation and reporting.
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/simoderyouch/PipePilot"><strong>PipePilot ↗</strong></a><br />
-      Developer tooling and automation.
+      <a href="https://github.com/simoderyouch/Arachnize"><strong>Arachnize ↗</strong></a><br />
+      Web scraping and browser automation platform.
     </td>
   </tr>
 </table>
