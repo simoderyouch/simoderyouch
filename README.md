@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/simoderyouch/simoderyouch/main/.github/assets/cloud-terminal.svg" alt="Mohamed ED Deryouch — cloud, DevOps, and systems" />
+  <img width="100%" src="https://raw.githubusercontent.com/simoderyouch/simoderyouch/main/.github/assets/cloud-terminal.svg" alt="Mohamed ED Deryouch — Software Engineer and AI Engineer" />
 </p>
 
 <p align="center">
@@ -10,29 +10,29 @@
 
 ```console
 $ whoami
-Mohamed — a developer who enjoys where code meets infrastructure.
+Mohamed — Software Engineer & AI Engineer.
 
-$ focus --now
-Cloud platforms · DevOps practices · automation · reliable systems
+$ mission
+Turn ideas into useful, intelligent software — then ship it.
 ```
 
-## The short version
+## About
 
-I build, experiment, and learn in public. I’m especially drawn to the craft behind dependable software: repeatable deployments, clean automation, useful developer tooling, and cloud infrastructure that stays understandable as it grows.
+I build AI-powered applications and software products from the first idea through deployment. I care about clean engineering, practical intelligence, and systems that work reliably outside the development environment.
 
-When I’m not building an application, I’m usually exploring a better way to deploy, monitor, connect, or automate it.
+Cloud, DevOps, and automation are interests that make the work even better: they help turn a finished feature into something repeatable, observable, and ready to use.
 
-## Current signal
+## What I work with
 
-| `01` | **Cloud & infrastructure** — learning how systems are designed to scale with intent. |
+| `01` | **Software engineering** — thoughtful applications, APIs, and full-stack products. |
 | :-- | :-- |
-| `02` | **DevOps & automation** — making development and delivery more repeatable. |
-| `03` | **AI-powered applications** — exploring practical products, not just demos. |
+| `02` | **AI engineering** — useful systems built with LLMs, NLP, computer vision, and data. |
+| `03` | **Deployment** — taking products from local development to real environments. |
 
 ## Toolbox, not a checklist
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,docker,kubernetes,terraform,aws,gcp,python,typescript,fastapi,postgres&perline=13" alt="Tools: Linux, Bash, GitHub Actions, Docker, Kubernetes, Terraform, AWS, Google Cloud, Python, TypeScript, FastAPI, and PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,django,pytorch,tensorflow,postgres,docker,aws,linux,git&perline=14" alt="Tools: Python, TypeScript, JavaScript, React, Next.js, FastAPI, Django, PyTorch, TensorFlow, PostgreSQL, Docker, AWS, Linux, and Git" />
 </p>
 
 ## Things I’m building
